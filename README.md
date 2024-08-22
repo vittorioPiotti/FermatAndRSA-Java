@@ -7,46 +7,46 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 ```bash
 $ tree
 .
-├─lib
-│ └── flatlaf-3.2.5.jar
-└─src
-  └── org
-      └── app
-          ├── applications
-          │   ├── encryption
-          │   │   ├── ReadFile.java
-          │   │   └── TestEncryption.java
-          │   └── primality
-          │       ├── SavePrimality.java
-          │       └── TestPrimality.java
-          ├── windows
-          │   ├── dependencies
-          │   │   ├── components
-          │   │   │   ├── encryption
-          │   │   │   │   ├── dialogs
-          │   │   │   │   │   ├── WinErrorInEncryption.java
-          │   │   │   │   │   └── WinErrorOutEncryption.java
-          │   │   │   │   ├── panels
-          │   │   │   │   │   ├── WinInEncryption.java
-          │   │   │   │   │   ├── WinOutEncryption.java
-          │   │   │   │   │   └── WinSaveEncryption.java
-          │   │   │   │   └── WinEncryption.java
-          │   │   │   ├── primality
-          │   │   │   │   ├── dialogs
-          │   │   │   │   │   ├── WinErrorInPrimality.java
-          │   │   │   │   │   └── WinErrorOutPrimality.java
-          │   │   │   │   ├── panels
-          │   │   │   │   │   ├── WinInPrimality.java
-          │   │   │   │   │   ├── WinOutPrimality.java
-          │   │   │   │   │   └── WinSavePrimality.java
-          │   │   │   │   └── WinPrimality.java
-          │   │   │   └── WinHome.java
-          │   │   └── managers
-          │   │       ├── WinManagerEncryption.java
-          │   │       └── WinManagerPrimality.java
-          │   └── WinManager.java
-          ├── App.java
-          └── Main.java
+├──lib
+│   └── flatlaf-3.2.5.jar
+└──src
+    └── org
+        └── app
+            ├── applications
+            │   ├── encryption
+            │   │   ├── ReadFile.java
+            │   │   └── TestEncryption.java
+            │   └── primality
+            │       ├── SavePrimality.java
+            │       └── TestPrimality.java
+            ├── windows
+            │   ├── dependencies
+            │   │   ├── components
+            │   │   │   ├── encryption
+            │   │   │   │   ├── dialogs
+            │   │   │   │   │   ├── WinErrorInEncryption.java
+            │   │   │   │   │   └── WinErrorOutEncryption.java
+            │   │   │   │   ├── panels
+            │   │   │   │   │   ├── WinInEncryption.java
+            │   │   │   │   │   ├── WinOutEncryption.java
+            │   │   │   │   │   └── WinSaveEncryption.java
+            │   │   │   │   └── WinEncryption.java
+            │   │   │   ├── primality
+            │   │   │   │   ├── dialogs
+            │   │   │   │   │   ├── WinErrorInPrimality.java
+            │   │   │   │   │   └── WinErrorOutPrimality.java
+            │   │   │   │   ├── panels
+            │   │   │   │   │   ├── WinInPrimality.java
+            │   │   │   │   │   ├── WinOutPrimality.java
+            │   │   │   │   │   └── WinSavePrimality.java
+            │   │   │   │   └── WinPrimality.java
+            │   │   │   └── WinHome.java
+            │   │   └── managers
+            │   │       ├── WinManagerEncryption.java
+            │   │       └── WinManagerPrimality.java
+            │   └── WinManager.java
+            ├── App.java
+            └── Main.java
 
 ```
 
