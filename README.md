@@ -5,6 +5,9 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 > [!TIP]
 > Software responsive con schermata Small e Large
 
+> [!TIP]
+> Corretto funzionamento garantito per algoritmo di Fermat e RSA
+
 
 ## Albero di Path
 
