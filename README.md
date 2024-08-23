@@ -45,7 +45,7 @@ Video di Test [(link)](https://drive.google.com/file/d/1IVb3ctowyLbrHMg7zlFN-Zv7
  3. Salva su file i numeri primi
  4. Seleziona schermata di "Algoritmo RSA"
  5. Carica il file con i numeri i primi
- 6. Cifra o decifra il messaggio
+ 6. Cifra o decifra un messaggio
 
     
 
