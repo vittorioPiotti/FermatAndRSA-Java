@@ -38,7 +38,16 @@ Video di Test [(link)](https://drive.google.com/file/d/1IVb3ctowyLbrHMg7zlFN-Zv7
 
 
 
+## Utilizzo
 
+ 1. Seleziona schermata di "Test Primalità"
+ 2. Genera i numeri primi con algoritmo di Fermat
+ 3. Salva su file i numeri primi
+ 4. Seleziona schermata di "Algoritmo RSA"
+ 5. Carica il file con i numeri i primi
+ 6. Cifra o decifra il messaggio
+
+    
 
 ## Albero di Path
 
