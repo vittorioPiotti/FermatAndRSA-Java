@@ -21,6 +21,12 @@ Video di Test [(link)]()
 
 
 
+## Responsive
+
+|<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/small.png" />|<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/large.png" />|                                                                
+|-|-|
+|Small|Large|
+
 
 
 
