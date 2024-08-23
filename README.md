@@ -9,7 +9,7 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 > Corretto funzionamento garantito per algoritmo di Fermat e RSA
 
 > [!Warning]
-> Presenza di BUG dell'UI
+> Presenza di BUG nell'UI
 
 ## Preview
 
