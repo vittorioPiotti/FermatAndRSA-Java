@@ -44,7 +44,7 @@ Video di Test [(link)](https://drive.google.com/file/d/1IVb3ctowyLbrHMg7zlFN-Zv7
  2. Genera i numeri primi con algoritmo di Fermat
  3. Salva su file i numeri primi
  4. Seleziona schermata di "Algoritmo RSA"
- 5. Carica il file con i numeri i primi
+ 5. Carica il file con i numeri primi
  6. Cifra o decifra un messaggio
 
     
