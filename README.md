@@ -12,7 +12,7 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 
 ## Preview
 
-Video di Test [(link)](https://vittoriopiotti.altervista.org/Subnetting/index.html)
+Video di Test [(link)]()
 
 
 ---
