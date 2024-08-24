@@ -16,6 +16,9 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 > [!Warning]
 > Presenza di BUG nell'UI
 
+### Support Me
+
+[<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
 
 
 ## Javadoc
