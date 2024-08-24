@@ -102,15 +102,15 @@ public void algoritmoFermat(){
 ### Snippet RSA Algorithm
 
 ```java
-
-	//Classe che implementa la crittografia RSA semplice per cifrare e decifrare messaggi.
+    
+public class TestEncryption {
+    //Classe che implementa la crittografia RSA semplice per cifrare e decifrare messaggi.
     private BigInteger p;	//Primo numero primo utilizzato per generare la chiave RSA
     private BigInteger q;	//Secondo numero primo utilizzato per generare la chiave RSA
     private BigInteger e;	//Esponente pubblico utilizzato per la crittografia
     private BigInteger n;	//Modulo n utilizzato per la crittografia e la decrittografia
     private BigInteger d;	//Esponente privato utilizzato per la decrittografia.
-    public TestEncryption(boolean modInverse,String p, String q, String e) {
-		//Costruttore per inizializzare i parametri RSA e calcolare la chiave privata (d).
+    public TestEncryption(boolean modInverse,String p, String q, String e) { // Costruttore per inizializzare i parametri RSA e calcolare la chiave privata (d).
         this.p = new BigInteger(p);
         this.q = new BigInteger(q);
         this.e = new BigInteger(e);
@@ -122,8 +122,7 @@ public void algoritmoFermat(){
             this.d = calculateD(this.e, phi_n);  
         }
     }
-    private BigInteger calculateD(BigInteger e, BigInteger phi_n) {
-		//Metodo privato per calcolare la chiave privata (d) senza utilizzare il modulo inverso.
+    private BigInteger calculateD(BigInteger e, BigInteger phi_n) { // Metodo privato per calcolare la chiave privata (d) senza utilizzare il modulo inverso.
         BigInteger d = BigInteger.ZERO;
         BigInteger k = BigInteger.ONE;
         while (true) {
@@ -136,8 +135,7 @@ public void algoritmoFermat(){
         }
         return d;
     }
-    public String encrypt(String plaintext) {
-		//Cifra un messaggio di testo in chiaro utilizzando la chiave pubblica RSA.
+    public String encrypt(String plaintext) { // Cifra un messaggio di testo in chiaro utilizzando la chiave pubblica RSA.
         StringBuilder ciphertext = new StringBuilder();
         for (char c : plaintext.toCharArray()) {
             BigInteger m = BigInteger.valueOf(c);
@@ -146,8 +144,7 @@ public void algoritmoFermat(){
         }
         return ciphertext.toString().trim();
     }
-    public String decrypt(String ciphertext) {
-		//Decifra un messaggio cifrato utilizzando la chiave privata RSA.
+    public String decrypt(String ciphertext) { // Decifra un messaggio cifrato utilizzando la chiave privata RSA.		
         StringBuilder plaintext = new StringBuilder();
         for (String token : ciphertext.split(" ")) {
             BigInteger encrypted = new BigInteger(token);
@@ -156,7 +153,7 @@ public void algoritmoFermat(){
         }
         return plaintext.toString();
     }
-
+}
 ```
 
 ## Albero di Path
