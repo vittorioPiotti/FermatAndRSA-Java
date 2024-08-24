@@ -59,7 +59,6 @@ Video di Test [(link)](https://drive.google.com/file/d/1IVb3ctowyLbrHMg7zlFN-Zv7
 
 
 ```java
-
 public void algoritmoFermat(){
 	long start; //tempo inizio calcolo numeri primi
 	long end; //tempo fine calcolo numeri primi
@@ -101,8 +100,7 @@ public void algoritmoFermat(){
 ```
 ### Snippet RSA Algorithm
 
-```java
-    
+```java  
 public class TestEncryption {
     //Classe che implementa la crittografia RSA semplice per cifrare e decifrare messaggi.
     private BigInteger p;	//Primo numero primo utilizzato per generare la chiave RSA
