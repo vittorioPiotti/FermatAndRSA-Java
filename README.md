@@ -18,8 +18,8 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 
 #### Support Me
 
-[<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
 
 ## Javadoc
 
