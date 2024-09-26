@@ -155,5 +155,5 @@ $ tree
 
 | Componente          | Versione         | Copyright                                      | Licenza                                                                                            |
 |---------------------|------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Fermat And RSA     | v1.0.0           | 2024 Vittorio Piotti                           | [GPL-3.0 License](https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/LICENSE.md)       |
+| [Fermat And RSA](https://github.com/vittorioPiotti/FermatAndRSA-Java)     | [v1.0.0](https://github.com/vittorioPiotti/FermatAndRSA-Java/releases/tag/1.0.0)           | 2024 Vittorio Piotti Vittorio Piotti - [(GitHub page)](https://github.com/vittorioPiotti)                           | [GPL-3.0 License](https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/LICENSE.md)       |
 | FlatLaf             | v3.2.5           | 2024 JFormDesigner GmbH                        | [Apache License 2.0](https://github.com/JFormDesigner/FlatLaf/blob/main/LICENSE)                   |
