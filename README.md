@@ -3,9 +3,7 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 
 
 > [!NOTE]
-> Il progetto è stato sviluppato a scuola per fini scolastici in funzione della consegna assegnata dal docente come lavoro individuale
-
-
+> Progetto scolastico
 
 > [!TIP]
 > Software responsive con schermata Small e Large
