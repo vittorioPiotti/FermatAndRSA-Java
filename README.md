@@ -31,15 +31,11 @@ Video di Test [(link)](https://drive.google.com/file/d/1IVb3ctowyLbrHMg7zlFN-Zv7
 
 ---
 
-<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/preview.png" />
+<img src="https://github.com/vittorioPiotti/FermatAndRSA-Java/blob/main/images/socialpreview2.png" />
 
 
 
-## Responsive
 
-|<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/small2.png" />|<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/large2.png" />|          
-|-|-|
-|Small|Large|
 
 
 
