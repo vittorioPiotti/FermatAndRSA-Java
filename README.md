@@ -6,9 +6,6 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 > Progetto scolastico
 
 > [!TIP]
-> Software responsive con schermata Small e Large
-
-> [!TIP]
 > Corretto funzionamento garantito per algoritmo di Fermat e RSA
 
 > [!Warning]
@@ -36,6 +33,11 @@ Video di Test [(link)](https://drive.google.com/file/d/1IVb3ctowyLbrHMg7zlFN-Zv7
 
 
 
+## Responsive
+
+|<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/small2.png" />|<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/large2.png" />|          
+|-|-|
+|Small|Large|
 
 
 
