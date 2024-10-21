@@ -149,7 +149,23 @@ $ tree
 
 ## Licenze
 
-| Componente          | Versione         | Copyright                                      | Licenza                                                                                            |
-|---------------------|------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [Fermat And RSA](https://github.com/vittorioPiotti/FermatAndRSA-Java)     | [v1.0.0](https://github.com/vittorioPiotti/FermatAndRSA-Java/releases/tag/1.0.0)           | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)                            | [GPL-3.0 ](https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/LICENSE.md)       |
-| FlatLaf             | v3.2.5           | 2024 JFormDesigner GmbH                        | [Apache  2.0](https://github.com/JFormDesigner/FlatLaf/blob/main/LICENSE)                   |
+
+### Fermat And RSA
+
+**Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/FermatAndRSA-Java/releases/tag/1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/LICENSE.md)
+
+
+---
+
+### FlatLaf
+
+**Copyright** 2024 JFormDesigner GmbH
+
+**Version** [v3.2.5](https://mvnrepository.com/artifact/com.formdev/flatlaf/3.2.5)
+
+**License** [Apache License 2.0](https://github.com/JFormDesigner/FlatLaf/blob/main/LICENSE)
+
