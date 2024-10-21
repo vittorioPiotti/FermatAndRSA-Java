@@ -5,8 +5,6 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 > [!NOTE]
 > Progetto scolastico
 
-> [!TIP]
-> Corretto funzionamento garantito per algoritmo di Fermat e RSA
 
 > [!Warning]
 > Presenza di BUG nell'UI
