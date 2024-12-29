@@ -3,7 +3,7 @@ Soluzione software in Java che genera e salva su file i numeri primi con algorit
 
 
 > [!NOTE]
-> Progetto scolastico
+> Progetto scolastico 🎓
 
 
 > [!Warning]
